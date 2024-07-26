@@ -1,0 +1,182 @@
+[
+  {
+    "type": "Foundation",
+    "brand": "Maybelline",
+    "name": "Fit Me",
+    "shade": "220 Natural Beige"
+  },
+  {
+    "type": "Concealer",
+    "brand": "Tarte",
+    "name": "Shape Tape",
+    "shade": "Light-Medium"
+  },
+  {
+    "type": "Blush",
+    "brand": "NARS",
+    "name": "Orgasm",
+    "shade": "Peachy Pink"
+  },
+  {
+    "type": "Mascara",
+    "brand": "Too Faced",
+    "name": "Better Than Sex",
+    "shade": "Black"
+  },
+  {
+    "type": "Eyeliner",
+    "brand": "Stila",
+    "name": "Stay All Day",
+    "shade": "Intense Black"
+  },
+  {
+    "type": "Eyeshadow",
+    "brand": "Urban Decay",
+    "name": "Naked3",
+    "shade": "Various"
+  },
+  {
+    "type": "Lipstick",
+    "brand": "MAC",
+    "name": "Ruby Woo",
+    "shade": "Vivid Blue-Red"
+  },
+  {
+    "type": "Lip Gloss",
+    "brand": "Fenty Beauty",
+    "name": "Gloss Bomb",
+    "shade": "Fenty Glow"
+  },
+  {
+    "type": "Powder",
+    "brand": "Laura Mercier",
+    "name": "Translucent Loose Setting Powder",
+    "shade": "Translucent"
+  },
+  {
+    "type": "Highlighter",
+    "brand": "Becca",
+    "name": "Shimmering Skin Perfector",
+    "shade": "Champagne Pop"
+  },
+  {
+    "type": "Bronzer",
+    "brand": "Benefit",
+    "name": "Hoola",
+    "shade": "Natural Bronze"
+  },
+  {
+    "type": "Primer",
+    "brand": "Smashbox",
+    "name": "Photo Finish",
+    "shade": "Clear"
+  },
+  {
+    "type": "Setting Spray",
+    "brand": "Urban Decay",
+    "name": "All Nighter",
+    "shade": "Clear"
+  },
+  {
+    "type": "Eyebrow Pencil",
+    "brand": "Anastasia Beverly Hills",
+    "name": "Brow Wiz",
+    "shade": "Medium Brown"
+  },
+  {
+    "type": "Lip Liner",
+    "brand": "Charlotte Tilbury",
+    "name": "Lip Cheat",
+    "shade": "Pillow Talk"
+  },
+  {
+    "type": "Contour",
+    "brand": "KVD Vegan Beauty",
+    "name": "Shade + Light",
+    "shade": "Light to Medium"
+  },
+  {
+    "type": "Eyeshadow Primer",
+    "brand": "Urban Decay",
+    "name": "Eyeshadow Primer Potion",
+    "shade": "Original"
+  },
+  {
+    "type": "Lip Balm",
+    "brand": "Burt's Bees",
+    "name": "Beeswax Lip Balm",
+    "shade": "Clear"
+  },
+  {
+    "type": "Facial Spray",
+    "brand": "Mario Badescu",
+    "name": "Facial Spray with Aloe, Herbs and Rosewater",
+    "shade": "Clear"
+  },
+  {
+    "type": "Nail Polish",
+    "brand": "OPI",
+    "name": "Bubble Bath",
+    "shade": "Soft Pink"
+  },
+  {
+    "type": "False Eyelashes",
+    "brand": "Ardell",
+    "name": "Demi Wispies",
+    "shade": "Black"
+  },
+  {
+    "type": "Beauty Sponge",
+    "brand": "Beautyblender",
+    "name": "The Original Beautyblender",
+    "shade": "Pink"
+  },
+  {
+    "type": "Face Mask",
+    "brand": "Glamglow",
+    "name": "Supermud Clearing Treatment",
+    "shade": "Charcoal"
+  },
+  {
+    "type": "Cleanser",
+    "brand": "Cetaphil",
+    "name": "Gentle Skin Cleanser",
+    "shade": "Clear"
+  },
+  {
+    "type": "Moisturizer",
+    "brand": "Clinique",
+    "name": "Dramatically Different Moisturizing Lotion+",
+    "shade": "Clear"
+  },
+  {
+    "type": "Sunscreen",
+    "brand": "Supergoop!",
+    "name": "Unseen Sunscreen",
+    "shade": "Clear"
+  },
+  {
+    "type": "Eyeshadow Palette",
+    "brand": "Huda Beauty",
+    "name": "Desert Dusk",
+    "shade": "Various"
+  },
+  {
+    "type": "Lip Stain",
+    "brand": "Benefit",
+    "name": "Benetint",
+    "shade": "Rose-Tinted"
+  },
+  {
+    "type": "Makeup Remover",
+    "brand": "Neutrogena",
+    "name": "Makeup Remover Cleansing Towelettes",
+    "shade": "Clear"
+  },
+  {
+    "type": "Serum",
+    "brand": "The Ordinary",
+    "name": "Hyaluronic Acid 2% + B5",
+    "shade": "Clear"
+  }
+]
