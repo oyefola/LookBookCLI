@@ -4,7 +4,7 @@ import fs from "fs";
 import path from "path";
 import chalk from "chalk";
 import { MakeupItem, MakeupLook } from "./DataTypes";
-
+import * as figlet from "figlet";
 const program = new Command();
 
 program.version("1").description("LOOKBOOK CLI");
@@ -16,7 +16,15 @@ const makeupBag: MakeupItem[] = JSON.parse(
 const looks: MakeupLook[] = [];
 
 function displayHeader() {
-    console.log(chalk.yellowBright.bgBlack.bold("Welcome to the LookBook, Diva ✨"));
+  console.log(
+    chalk.redBright.bgBlack.bold(
+      figlet.textSync("Welcome to the LookBook, Diva ✨", {
+        font: "Bell",
+        horizontalLayout: "default",
+        verticalLayout: "default",
+      })
+    )
+  );
 }
 
 async function mainMenu() {
@@ -212,7 +220,7 @@ async function addItemToMakeupBag() {
     console.log(chalk.red("You already have that, no overconsumption👀"));
   } else {
     makeupBag.push(newItem);
-    
+
     console.log(chalk.green("You have a new item, girl!"));
   }
   askToGoToMainMenu();
