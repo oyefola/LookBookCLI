@@ -59,9 +59,6 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-## Contact
-
-Project Link: [https://github.com/your-username/lookbook-cli](https://github.com/your-username/lookbook-cli)
 
 ## Acknowledgments
 
